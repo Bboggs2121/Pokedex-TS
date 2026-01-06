@@ -1,0 +1,5 @@
+
+> pokedex-ts@1.0.0 dev
+> npx tsc && node dist/main.js
+
+src/main.ts(5,16): error TS2554: Expected 1 arguments, but got 0.
